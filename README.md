@@ -7,36 +7,21 @@
 
 ### 🛠 Tech Stack
 
-**Programming Languages**
-![C#](https://img.shields.io)
-![C++](https://img.shields.io)
-![C](https://img.shields.io)
-![Python](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![TypeScript](https://img.shields.io)
-![Julia](https://img.shields.io)
-![MATLAB](https://img.shields.io)
-
-**Web & Backend Development**
-![React](https://img.shields.io)
-![Node.js](https://img.shields.io)
-![.NET](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![MySQL](https://img.shields.io)
-![REST API](https://img.shields.io)
-
-**Desktop & Architecture**
-![WPF](https://img.shields.io)
-![Electron](https://img.shields.io)
-![Architecture](https://img.shields.io)
+**Programming Languages, Web & Desktop**
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
 **Design & Tools**
-![Figma](https://img.shields.io)
-![Canva](https://img.shields.io)
-![Git](https://img.shields.io)
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
 ---
 
 ### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app" alt="Bojana's Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+</p>
