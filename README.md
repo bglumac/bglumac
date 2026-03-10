@@ -61,8 +61,8 @@
 
 ### 📊 My GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=bglumac&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bglumac&show_icons=true&theme=tokyonight"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglumac&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bglumac&layout=compact&theme=tokyonight"/>
 </p>
