@@ -1,7 +1,7 @@
 # Hi, I'm Bojana! 👋
 
 ### 🎓 Education & Growth
-- 🏫 Currently studying at **Faculty Of Technical Sciences**
+- 🏫 Currently studying at **Faculty of Technical Sciences**
 - 🌱 Exploring different areas of tech and software engineering
 - 🔭 Working on improving my problem-solving skills through university assignments
 
@@ -29,12 +29,13 @@
 **Desktop & Architecture**
 ![WPF](https://img.shields.io)
 ![Electron](https://img.shields.io)
-![MVC/MVVM](https://img.shields.io)
+![Architecture](https://img.shields.io)
 
 **Design & Tools**
 ![Figma](https://img.shields.io)
 ![Canva](https://img.shields.io)
 ![Git](https://img.shields.io)
+
 ---
 
 ### 📊 My GitHub Stats
